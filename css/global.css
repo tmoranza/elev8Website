@@ -51,10 +51,12 @@ li a:hover {
 
 .purplePage{
   background-color: purple;
+  /* removing, so responsive features of Bootstrap can be utilized
   padding-top: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
   padding-left: 20px;
+  */
 }
 .twitterPage{
   background-color: black;
