@@ -1,5 +1,12 @@
 body {
     background-color:  grey;
+    color: white;
+    /* removed to allow responsive features of Bootstrap to work
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+    */
 }
 
 p {
@@ -11,13 +18,6 @@ p {
 h1 {
     color: navy;
     margin-left: 20px;
-}
-body {
-    color: white;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-right: 100px;
-    margin-left: 100px;
 }
 ul {
     color: black;
